@@ -10,7 +10,7 @@ Mechanical Engineering student and a big fan of Opensource!
 
 I am currently working on the usage of DeepLearning to solve scientific problems like
 - [torch-PIV](https://github.com/erfanhamdi/torch_PIV) which I have used Conv2D module inside pytorch for calculation of th Normalized Cross Correlation between two frames of PIV, which resulted in 2X faster performance on CPU.
-- [microAI](https://github.com/erfanhamdi/microAI) an AI based webapp deployed on huggingface to calculate the lift coefficients of microfluidic channels in milli seconds instead of hours!
+- [microAI](https://erfanhamdi.github.io/microAI/) an AI based webapp deployed on huggingface to calculate the lift coefficients of microfluidic channels in milli seconds instead of hours!
 
 I also enjoys implementing self organizing systems and visualize them!
 
