@@ -57,10 +57,6 @@ You can see my resume on GitHub at
 </div>
 
 
-## ⚡ GitHub statistics
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erfanhamdi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
